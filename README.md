@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Manya Gupta 👋
 
-<!--
-**manya25boe10116-svg/manya25boe10116-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Biotechnology Student | Aspiring Researcher | Tech Enthusiast  
 
-Here are some ideas to get you started:
+Passionate about combining **Biology 🧬 and Technology 💻** to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍🎓 About Me
+- Pursuing **B.Tech in Biotechnology**
+- Interested in **Genetics, Bioinformatics, Molecular Biology**
+- Learning **Python for Bioinformatics**
+- Curious about scientific innovations
+
+---
+
+## 🧠 Skills
+
+### Biotechnology
+- Cell Biology
+- Genetics
+- Molecular Biology
+- Biochemistry
+
+### Technical Skills
+- Python
+- Basic Data Analysis
+- Bioinformatics Tools (BLAST, FASTA)
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+- DNA Sequence Analysis Tool
+- Virtual Lab Simulation
+- Bioinformatics Data Study
+
+---
+
+## 🌍 Areas of Interest
+- Genetic Engineering
+- Bioinformatics
+- Pharmaceutical Biotechnology
+- Environmental Biotechnology
+
+---
+
+## 📫 Contact Me
+Email: manya.25boe10116@vitbhopal.ac.in 
+LinkedIn: https://www.linkedin.com/in/manya-gupta-8456693bb/
