@@ -47,4 +47,5 @@ Passionate about combining **Biology 🧬 and Technology 💻** to solve real-wo
 
 ## 📫 Contact Me
 Email: manya.25boe10116@vitbhopal.ac.in 
+
 LinkedIn: https://www.linkedin.com/in/manya-gupta-8456693bb/
